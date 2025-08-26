@@ -31,4 +31,4 @@ This is a solution to the [Expenses chart component challenge on Frontend Mentor
 ## Author
 
 - Website - [Expenses](https://BarbareUgrekhelidze.github.io/Expenses-chart-component/)
-- Frontend Mentor - [@BarbareUgrekhelidze](https://www.frontendmentor.io/profile/barbare999)
+- Frontend Mentor - [@BarbareUgrekhelidze](https://www.frontendmentor.io/profile/BarbareUgrekhelidze)
