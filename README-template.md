@@ -1,12 +1,12 @@
 # Frontend Mentor - Expenses chart component solution
 
-This is a solution to the [Expenses chart component challenge on Frontend Mentor](https://github.com/barbare999/Expenses-chart-component.git). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Expenses chart component challenge on Frontend Mentor](https://github.com/BarbareUgrekhelidze/Expenses-chart-component.git). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
 - [Overview](#overview)
-  - [Links](#links)
-  - [Built with](#built-with)
+- [Links](#links)
+- [Built with](#built-with)
 - [Author](#author)
 
 ## Overview
@@ -15,8 +15,8 @@ This is a solution to the [Expenses chart component challenge on Frontend Mentor
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/barbare999/Expenses-chart-component.git)
-- Live Site URL: [Add live site URL here](https://barbare999.github.io/Expenses-chart-component/)
+- Solution URL: [Add solution URL here](https://github.com/BarbareUgrekhelidze/Expenses-chart-component.git)
+- Live Site URL: [Add live site URL here](https://BarbareUgrekhelidze.github.io/Expenses-chart-component/)
 
 ## My process
 
@@ -30,5 +30,5 @@ This is a solution to the [Expenses chart component challenge on Frontend Mentor
 
 ## Author
 
-- Website - [Expenses](https://barbare999.github.io/Expenses-chart-component/)
+- Website - [Expenses](https://BarbareUgrekhelidze.github.io/Expenses-chart-component/)
 - Frontend Mentor - [@BarbareUgrekhelidze](https://www.frontendmentor.io/profile/barbare999)
